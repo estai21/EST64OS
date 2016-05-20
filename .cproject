@@ -46,5 +46,8 @@
 		</scannerConfigBuildInfo>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+<<<<<<< HEAD
 	<storageModule moduleId="refreshScope"/>
+=======
+>>>>>>> branch 'master' of https://github.com/estai21/EST64OS.git
 </cproject>
