@@ -6,6 +6,7 @@ SECTION .text
 mov ax, 0xB800
 mov ds, ax
 
+; 암묵적으로 'DS':offset 사용
 mov byte[0x00], 'M'	; 'M' in DS:0x0000
 mov byte[0x01], 0x0A	; 0x0A in DS:0x0001
 
